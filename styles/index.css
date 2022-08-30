@@ -1,0 +1,43 @@
+h1 {
+    color: wheat;
+    font-size: 50px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    background-color: orangered;
+}
+
+
+    .last-paragraph {
+        color: whitesmoke;
+    }
+
+    body {
+        background-image: url(../Images/sunrise.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        height: 150vh;
+    }
+
+    img {
+        border-width: 5px;
+        border-style: solid;
+        border-color: aquamarine;
+        border-radius: 60px;
+        box-shadow: 15px 15px 25px seagreen;
+    }
+    h4 {
+        color: orangered;
+    }
+    p {
+        font-size: large;
+    }
+    h2, label {
+        color: wheat;
+    }
+    li {
+        color: whitesmoke;
+        font-size: larger;
+    }
